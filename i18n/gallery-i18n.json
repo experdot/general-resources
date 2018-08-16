@@ -1,0 +1,7 @@
+{
+    "template": "https://general-gallery-1253318267.cos.ap-beijing.myqcloud.com/gallery.{{language}}.json",
+    "languages": [
+        "en-US",
+        "zh-CN"
+    ]
+}
